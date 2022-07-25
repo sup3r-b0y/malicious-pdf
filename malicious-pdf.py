@@ -9,7 +9,7 @@
 ## Based on https://github.com/modzero/mod0BurpUploadScanner/ and https://github.com/deepzec/Bad-Pdf
 ##
 ## Jonas Lejon, 2021 <jonas.github@triop.se> 
-## https://github.com/jonaslejon/malicious-pdf
+## https://github.com/jonaslejon/malicious-pd
 
 import io
 import sys
